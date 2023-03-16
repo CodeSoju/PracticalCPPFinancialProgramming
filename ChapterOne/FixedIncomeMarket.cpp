@@ -147,6 +147,8 @@ class IntRateCalculator {
  * 
  * The assingment operator:
  * this member function is used when assignment operation occurs between two objects of the same class. 
- * Defining 
+ * Defining this type, you can specify how the contents of an object are tranferred from one object to the next:
+ * that can be done either by value or by reference. Other details of the copy, such as reference counters, for example, 
+ * can also be estabilshed in the assignent operator. 
  * 
  */
